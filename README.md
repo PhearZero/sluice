@@ -1,1 +1,3 @@
-# sluice
+# Quasar App
+
+> WIP
